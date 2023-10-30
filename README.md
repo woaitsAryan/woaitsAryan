@@ -15,7 +15,7 @@
 - I love tech, all the systems and innovations in place in order to make a computer tick, I love learning about them.
 - <ins>Backend Dev.</ins> I find coding them to be so incredibly fullfilling.
 - <ins>DevOps</ins> and Cloud is something I'm not very proficient in but constantly learning and improving.
-- I do <ins>CyberSec</ins> for fun. Doing CTFs is something I do in my free time.
+- I do <ins>CyberSec</ins> for fun. CTFs is something I do in my free time.
 - I can also do Frontend in React and Next but CSS is something I don't enjoy doing.
 - Would love to colloborate on projects! Feel free to reach out to me.
 - Also love linux but also love windows so WSL is my best friend.
