@@ -38,7 +38,12 @@
 
 <h2>🤝 Connect with me</h2>
   
-  ![Linkedin](https://img.shields.io/badge/aryanbharti-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faryanbharti%2F)
-![Mail](https://img.shields.io/badge/workaryanbharti%40gmail.com-5383ec?logo=gmail&logoColor=d85140&link=mailto%3Aworkaryanbharti%40gmail.com)
+<a href="https://www.linkedin.com/in/aryanbharti/" target="_blank">
+    <img src="https://img.shields.io/badge/aryanbharti-blue?logo=linkedin" alt="Linkedin">
+</a>
+
+<a href="mailto:workaryanbharti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/workaryanbharti%40gmail.com-5383ec?logo=gmail&logoColor=d85140" alt="Mail">
+</a>
 
 
