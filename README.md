@@ -27,14 +27,11 @@
 
 <h2 align="left">⚡ GitHub Stats</h2>
 
-<p align="center" float="left">
-  <a href="https://github.com/woaitsAryan?tab=repositories">
-  <img src="https://github-readme-stats-rosy-five-15.vercel.app/api?username=woaitsAryan&layout=compact&show_icons=true&title_color=08befc&bg_color=170c48&icon_color=f5519c&text_color=F8F7F9&hide_border=1" height=150/>
-  </a>
-  <!-- <a href="https://github.com/woaitsAryan?tab=repositories">
-  <img src="https://github-readme-stats-rosy-five-15.vercel.app/api/top-langs?username=woaitsAryan&show_icons=true&locale=en&layout=compact&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
-  </a> -->
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=woaitsAryan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 <h2>🤝 Connect with me</h2>
   
