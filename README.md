@@ -44,7 +44,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
-###
 
 <h2 align="left">⚡ GitHub Stats</h2>
 
