@@ -47,17 +47,6 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-###
-
-<h2 align="left">⚡ GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=woaitsAryan&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
-
 <h2>🤝 Connect with me</h2>
   
 <a href="https://www.linkedin.com/in/aryanbharti/" target="_blank">
